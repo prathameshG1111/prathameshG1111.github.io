@@ -1,0 +1,20 @@
+Tools for intership:
+
+1. https://dbeaver.io/
+
+Database connectivity tool
+
+DBeaver is a popular open-source database management tool that supports a wide range of databases, including SQL, NoSQL, and cloud databases. It provides a comprehensive set of features for database development, administration, and management, including:
+
+- **Cross-Platform Compatibility**: Runs on Windows, macOS, and Linux.
+- **Database Support**: Compatible with numerous databases like MySQL, PostgreSQL, Oracle, SQL Server, SQLite, and many others.
+- **User Interface**: Offers an intuitive and user-friendly interface with tools for browsing database structures, running SQL queries, and editing data.
+- **Data Visualization**: Includes features for data visualization and analysis, making it easier to work with complex data sets.
+- **Extensibility**: Supports plugins to extend its functionality, allowing customization to fit specific needs.
+- **SQL Editor**: Equipped with a powerful SQL editor with syntax highlighting, code completion, and execution history.
+
+DBeaver is suitable for developers, database administrators, analysts, and anyone needing to interact with databases in a versatile and efficient manner.
+
+2. python - jupyter notebook, vs code, pycharm, google colab
+
+3. Git
